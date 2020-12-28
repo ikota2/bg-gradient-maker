@@ -1,0 +1,23 @@
+.maker__wrapper {
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.maker__logo {
+  width: 100px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.maker__topLabel,
+.maker__bottomLabel {
+  margin-right: 10px;
+}
+
+.maker__second-color {
+  width: 180px;
+}
