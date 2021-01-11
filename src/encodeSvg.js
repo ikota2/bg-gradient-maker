@@ -8,7 +8,6 @@ function addNameSpace(data) {
   if (data.indexOf(`http://www.w3.org/2000/svg`) < 0) {
     data = data.replace(/<svg/g, `<svg xmlns="http://www.w3.org/2000/svg"`);
   }
-
   return data;
 }
 
@@ -25,6 +24,3 @@ function encodeSVG(data) {
 
   return data.replace(symbols, encodeURIComponent);
 }
-
-// Get quotes for levels
-// ----------------------------------------
