@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bg-gradient-maker/static/css/main.5ddfd267.chunk.css",
+    "main.js": "/bg-gradient-maker/static/js/main.b3770663.chunk.js",
+    "main.js.map": "/bg-gradient-maker/static/js/main.b3770663.chunk.js.map",
+    "runtime-main.js": "/bg-gradient-maker/static/js/runtime-main.ee951bc4.js",
+    "runtime-main.js.map": "/bg-gradient-maker/static/js/runtime-main.ee951bc4.js.map",
+    "static/js/2.8ef92d05.chunk.js": "/bg-gradient-maker/static/js/2.8ef92d05.chunk.js",
+    "static/js/2.8ef92d05.chunk.js.map": "/bg-gradient-maker/static/js/2.8ef92d05.chunk.js.map",
+    "index.html": "/bg-gradient-maker/index.html",
+    "precache-manifest.57f0d02e41de28c737e423df02c2a736.js": "/bg-gradient-maker/precache-manifest.57f0d02e41de28c737e423df02c2a736.js",
+    "service-worker.js": "/bg-gradient-maker/service-worker.js",
+    "static/css/main.5ddfd267.chunk.css.map": "/bg-gradient-maker/static/css/main.5ddfd267.chunk.css.map",
+    "static/js/2.8ef92d05.chunk.js.LICENSE.txt": "/bg-gradient-maker/static/js/2.8ef92d05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee951bc4.js",
+    "static/js/2.8ef92d05.chunk.js",
+    "static/css/main.5ddfd267.chunk.css",
+    "static/js/main.b3770663.chunk.js"
+  ]
+}
